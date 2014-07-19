@@ -8,6 +8,5 @@ alias csg2='ssh n7pg01dimg001dtbs002.general.disney.private'
 alias csc1='ssh n7ps01dimg001dtbs001.compliant.disney.private'
 alias csc2='ssh n7ps01dimg001dtbs002.compliant.disney.private'
 alias razor="/Users/afraser/projects/personal/razor-client/bin/razor -u http://localhost:18081/api"
-alias docker="ssh afraser@docker.afraser.io"
 alias clear-dns="sudo killall -HUP mDNSResponder"
 alias jekyll-dev="cd /Users/afraser/projects/personal/afraser.io && jekyll serve --watch --drafts --config _config.yml,_config-dev.yml"
