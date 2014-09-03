@@ -5,3 +5,4 @@
 #
 
 export RAZOR_API=http://localhost:18081/api
+export JAVA_HOME=$(/usr/libexec/java_home)
