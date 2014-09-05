@@ -1,4 +1,4 @@
-alias keepass-checkout="scp infra-bastion01.compliant.disney.private:/root/techops/TechOpsKeePassX.kdb ~/Documents/TechOpsKeePassX.kdb"
+alias keepass-checkout="scp infra-compliant-old:/root/techops/TechOpsKeePassX.kdb ~/Documents/TechOpsKeePassX.kdb"
 alias keepass-checkin="scp ~/Documents/TechOpsKeePassX.kdb infra-bastion01.compliant.disney.private:/root/techops/TechOpsKeePassX.kdb"
 alias csg1='ssh n7pg01dimg001dtbs001.general.disney.private'
 alias csg2='ssh n7pg01dimg001dtbs002.general.disney.private'

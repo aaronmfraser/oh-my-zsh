@@ -4,5 +4,6 @@
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
 
+export EC2_HOME=/usr/local/ec2/ec2-api-tools-1.7.1.1
 export RAZOR_API=http://localhost:18081/api
 export JAVA_HOME=$(/usr/libexec/java_home)
